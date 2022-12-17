@@ -1,0 +1,9 @@
+#dist 
+.next/
+dist/
+
+#libs
+node_modules/
+
+#environment
+.env
